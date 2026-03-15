@@ -1,5 +1,5 @@
 # about me
-hello there, my name is janet. i am a phd drop-out with an interest in all things:
+hello there, my name is janet. i am a psychology phd drop-out with an interest in all things:
 
 - statistics and research design
 - community and public health
