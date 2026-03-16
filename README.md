@@ -9,5 +9,5 @@ hello there, my name is janet. i am a psychology phd drop-out with an interest i
 
 # current projects
 - community program evaluation, using qual and quant data to examine efficacy of trans inclusive care education workshops with service providers
-- writing a undergraduate focused statistics textbook
+- writing an undergraduate focused statistics textbook
 - learning python/numpy/pandas and generalizing r knowledge to other approaches
