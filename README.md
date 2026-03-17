@@ -1,6 +1,6 @@
-# hi, i'm janet
+# 👋 hi, i'm janet 
 
-psychology phd drop-out turned data nerd. i care a lot about people, and i've found that statistics is one of the most powerful tools for understanding them.
+psychology phd drop-out turned data nerd. i care a lot about people, and i've found that statistics is one of the most powerful tools for understanding them
 
 my interests live at the intersection of:
 
@@ -12,11 +12,11 @@ my interests live at the intersection of:
 
 ## current projects
 
-**trans inclusive care education evaluation**: community program evaluation using qualitative and quantitative data to examine the efficacy of trans inclusive care education workshops with service providers
+1. **trans inclusive care education evaluation**: using qualitative and quantitative data to examine the efficacy of trans inclusive care education workshops with service providers
 
-**undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense
+2. **undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense. hoping to share a draft repo in the next 6-12 months.
 
-**expanding my toolkit**: learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows
+3. **expanding my toolkit**: learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows. hoping to share my basic learning repo of reproducing a basic univariate statistics package (e.g., central tendency, dispersion, glm for tests of difference and association) 
 
 ## get in touch
 
