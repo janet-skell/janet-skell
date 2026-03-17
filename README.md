@@ -10,8 +10,6 @@ my interests live at the intersection of:
 - 🧠 neuropsychology
 - 📚 teaching and pedagogy
 
----
-
 ## 🛠️ tools i work with
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
