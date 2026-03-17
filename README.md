@@ -1,5 +1,4 @@
 # hi, i'm janet
----
 
 psychology phd drop-out turned data nerd. i care a lot about people, and i've found that statistics is one of the most powerful tools for understanding them.
 
