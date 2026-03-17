@@ -9,13 +9,17 @@ my interests live at the intersection of:
 - 🏃 sports science and nutrition
 - 🧠 neuropsychology
 - 📚 teaching and pedagogy
+
 ---
+
 ## 🛠️ tools i work with
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
+
 ## 🔭 current projects
 
 **trans inclusive care education evaluation**
@@ -26,7 +30,9 @@ writing an accessible, undergraduate-focused statistics textbook that actually m
 
 **expanding my toolkit**
 learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows
+
 ---
+
 ## 📫 get in touch
 
 - 💬 **irc:** `janet_xo` on [libera.chat](https://libera.chat)
