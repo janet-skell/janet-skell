@@ -9,7 +9,6 @@ my interests live at the intersection of:
 - 🏃 sports science and nutrition
 - 🧠 neuropsychology
 - 📚 teaching and pedagogy
-
 ---
 ## 🛠️ tools i work with
 
@@ -27,7 +26,6 @@ writing an accessible, undergraduate-focused statistics textbook that actually m
 
 **expanding my toolkit**
 learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows
-
 ---
 ## 📫 get in touch
 
