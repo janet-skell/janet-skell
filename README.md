@@ -10,8 +10,6 @@ my interests live at the intersection of:
 - 🧠 neuropsychology
 - 📚 teaching and pedagogy
 
----
-
 ## 🔭 current projects
 
 **trans inclusive care education evaluation**: community program evaluation using qualitative and quantitative data to examine the efficacy of trans inclusive care education workshops with service providers
@@ -19,8 +17,6 @@ my interests live at the intersection of:
 **undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense
 
 **expanding my toolkit**: learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows
-
----
 
 ## 📫 get in touch
 
