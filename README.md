@@ -1,14 +1,14 @@
-# 👋 hi, i'm janet 
+# hi, i'm janet 
 
 psychology phd drop-out turned data nerd. i care a lot about people, and i've found that statistics is one of the most powerful tools for understanding them
 
 my interests live at the intersection of:
 
-- 📊 statistics and research design
-- 🏘️ community and public health
-- 🏃 sports science and nutrition
-- 🧠 neuropsychology
-- 📚 teaching and pedagogy
+- statistics and research design
+- community and public health
+- sports science and nutrition
+- neuropsychology
+- teaching and pedagogy
 
 ## current projects
 
