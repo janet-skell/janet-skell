@@ -14,9 +14,9 @@ my interests live at the intersection of:
 
 1. **trans inclusive care education evaluation**: using qualitative and quantitative data to examine the efficacy of education workshops with community service providers
 
-2. **undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense. hoping to share a draft repo in the next 6-12 months.
+2. **undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense. hoping to share a draft repo in the next 6-12 months
 
-3. **expanding my toolkit**: learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows. hoping to share my basic learning repo of reproducing a basic univariate statistics package (e.g., central tendency, dispersion, glm for tests of difference and association). hoping to share a draft repo in the next 3 months.
+3. **expanding my toolkit**: learning python/numpy/pandas and generalizing my r knowledge to new approaches and workflows. hoping to share my basic learning repo of reproducing a basic univariate statistics package (e.g., central tendency, dispersion, glm for tests of difference and association). hoping to share a draft repo in the next 3 months
 
 ## get in touch
 
