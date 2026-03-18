@@ -12,7 +12,7 @@ my interests live at the intersection of:
 
 ## current projects
 
-1. **trans inclusive care education evaluation**: using qualitative and quantitative data to examine the efficacy of trans inclusive care education workshops with service providers
+1. **trans inclusive care education evaluation**: using qualitative and quantitative data to examine the efficacy of education workshops with community service providers
 
 2. **undergraduate statistics textbook**: writing an accessible, undergraduate-focused statistics textbook that actually makes sense. hoping to share a draft repo in the next 6-12 months.
 
