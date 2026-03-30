@@ -21,4 +21,4 @@ my interests live at the intersection of:
 ## get in touch
 
 - 💬 **irc:** `janet_xo` on [libera.chat](https://libera.chat)
-- 🔒 **simplex:** [connect with me](https://smp9.simplex.im/a#q_A0GQzCELZRJHpk_NyPNFaN-FVp3fSLrTKbIDxM8QI)
+- 🔒 **simplex:** [connect with me]([https://smp9.simplex.im/a#q_A0GQzCELZRJHpk_NyPNFaN-FVp3fSLrTKbIDxM8QI)](https://smp12.simplex.im/a#jT-m0wLIhpuNtQvGyb4qrE40k0xQmARMoBgjBxxX2uY).
